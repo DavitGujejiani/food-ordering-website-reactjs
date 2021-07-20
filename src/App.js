@@ -7,7 +7,7 @@ function App() {
     return (
         <Fragment>
             <Header />
-            <Cart/>
+            <Cart />
             <main>
                 <Meals />
             </main>
